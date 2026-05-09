@@ -1,3 +1,3 @@
 <?php
-     echo "Hello, Docker2!";
+     echo "Hello, Docker3!";
    ?>
